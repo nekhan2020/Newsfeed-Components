@@ -4,7 +4,7 @@
 const data = [
   {
     title: 'Lambda School Students: "We\'re the best!"',
-    date: 'Nov 5th, 2018',
+    date: "Nov 5th, 2018",
     firstParagraph: `Lucas ipsum dolor sit amet ben twi'lek padmé darth darth darth moff hutt organa twi'lek. Ben amidala secura skywalker lando
         moff wicket tatooine luke.Solo wampa wampa calrissian yoda moff.Darth grievous darth gonk darth hutt.Darth baba skywalker
         watto fett jango maul han.Mon ewok sidious sidious lando kenobi grievous gamorrean solo.Yoda wedge utapau darth calamari.
@@ -21,11 +21,11 @@ const data = [
     thirdParagraph: `Dagobah hutt jawa leia calamari ventress skywalker yoda. Binks wicket hutt coruscant sidious
         naboo ackbar tatooine. Hutt lars padmé darth. Maul solo darth darth jabba qui-gon chewbacca darth maul. Moff baba wicket
         han. C-3po antilles moff qui-gon ahsoka aayla dooku amidala. Palpatine droid amidala droid k-3po twi'lek padmé wookiee. Leia
-        moff calamari mon obi-wan. Solo grievous lando coruscant. Jinn darth palpatine obi-wan mon.`
+        moff calamari mon obi-wan. Solo grievous lando coruscant. Jinn darth palpatine obi-wan mon.`,
   },
   {
-    title: 'Javascript and You, ES6',
-    date: 'May 7th, 2019',
+    title: "Javascript and You, ES6",
+    date: "May 7th, 2019",
     firstParagraph: `Alohamora wand elf parchment, Wingardium Leviosa hippogriff, house dementors betrayal. Holly, Snape centaur portkey ghost
         Hermione spell bezoar Scabbers. Peruvian-Night-Powder werewolf, Dobby pear-tickle half-moon-glasses, Knight-Bus. Padfoot
         snargaluff seeker: Hagrid broomstick mischief managed. Snitch Fluffy rock-cake, 9 ¾ dress robes I must not tell lies. Mudbloods
@@ -41,11 +41,11 @@ const data = [
     thirdParagraph: `Toad-like smile Flourish and Blotts he knew I’d come back Quidditch World Cup. Fat Lady baubles banana fritters fairy lights 
         Petrificus Totalus. So thirsty, deluminator firs’ years follow me 12 inches of parchment. Head Boy start-of-term banquet Cleansweep Seven 
         roaring lion hat. Unicorn blood crossbow mars is bright tonight, feast Norwegian Ridgeback. Come seek us where our voices sound, we cannot 
-        sing above the ground, Ginny Weasley bright red. Fanged frisbees, phoenix tears good clean match.`
+        sing above the ground, Ginny Weasley bright red. Fanged frisbees, phoenix tears good clean match.`,
   },
   {
-    title: 'React vs Angular vs Vue',
-    date: 'June 7th, 2019',
+    title: "React vs Angular vs Vue",
+    date: "June 7th, 2019",
     firstParagraph: `Bulbasaur Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ivysaur Lorem ipsum dolor sit amet, consectetur adipiscing
         elit. Venusaur Lorem ipsum dolor sit amet, consectetur adipiscing elit. Charmander Lorem ipsum dolor sit amet, consectetur
         adipiscing elit. Charmeleon Lorem ipsum dolor sit amet, consectetur adipiscing elit. Charizard Lorem ipsum dolor sit amet,
@@ -69,11 +69,11 @@ const data = [
 
     thirdParagraph: `Gotta catch 'em all Horsea gym Ninjask Absol Sinnoh Poliwag. Gotta catch 'em all Youngster wants to fight Soda Pop Floatzel 
         Leech Life Seismitoad Ariados. Earthquake Pokemon Glitch City Tail Whip Skitty Ekans Dialga. Ut aliquip ex ea commodo consequat James 
-        Castform Lotad the power that's inside Burnt Berry Makuhita. Ghost Ariados Corphish Dusclops Golbat Gligar Zweilous.`
+        Castform Lotad the power that's inside Burnt Berry Makuhita. Ghost Ariados Corphish Dusclops Golbat Gligar Zweilous.`,
   },
   {
-    title: 'Professional Software Development in 2019',
-    date: 'Jan 1st, 2019',
+    title: "Professional Software Development in 2019",
+    date: "Jan 1st, 2019",
     firstParagraph: `Hodor hodor HODOR! Hodor hodor - hodor, hodor. Hodor hodor... Hodor hodor hodor; hodor hodor. Hodor hodor hodor, hodor, hodor
           hodor. Hodor, hodor. Hodor. Hodor, hodor - hodor... Hodor hodor hodor; hodor HODOR hodor, hodor hodor?! Hodor hodor, hodor.
           Hodor hodor hodor hodor hodor! Hodor hodor - HODOR hodor, hodor hodor hodor hodor hodor; hodor hodor? `,
@@ -85,32 +85,86 @@ const data = [
 
     thirdParagraph: `Hodor hodor - hodor... Hodor hodor hodor hodor. Hodor. Hodor! Hodor hodor, hodor hodor hodor hodor hodor; hodor hodor? Hodor!
           Hodor hodor, HODOR hodor, hodor hodor?! Hodor! Hodor hodor, HODOR hodor, hodor hodor, hodor, hodor hodor. Hodor, hodor.
-          Hodor. Hodor, hodor, hodor. Hodor hodor... Hodor hodor hodor?! Hodor, hodor... Hodor hodor HODOR hodor, hodor hodor. Hodor.`
-  }
+          Hodor. Hodor, hodor, hodor. Hodor hodor... Hodor hodor hodor?! Hodor, hodor... Hodor hodor HODOR hodor, hodor hodor. Hodor.`,
+  },
+  {
+    title: "Mewtwo",
+    date: "Feb 10th, 2021",
+    firstParagraph: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan egestas orci, vel bibendum purus ultricies sit amet. Ut venenatis justo ut felis convallis, ac dapibus justo sollicitudin. Vestibulum nisi urna, accumsan ac mauris eget, finibus maximus augue. Nullam tincidunt leo nulla, ut scelerisque turpis semper porttitor. Nulla laoreet diam non risus tincidunt, a aliquet lacus iaculis. Sed scelerisque risus at consequat ornare. Curabitur imperdiet, urna a dignissim dapibus, felis est tristique augue, ac ullamcorper mauris nisi a ipsum. Maecenas a pretium massa. Duis a nisl id ante consequat lacinia sed eu purus. Quisque finibus velit justo, in dignissim lacus interdum nec. Sed vitae sollicitudin ex, vel viverra augue.`,
+
+    secondParagraph: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer at ornare est. Maecenas volutpat sapien libero, ut vulputate tortor pellentesque vel. Quisque dolor lacus, consectetur in egestas sed, eleifend vitae ante. Pellentesque tincidunt, nibh at ullamcorper sollicitudin, velit urna interdum metus, nec aliquet felis velit sed sem. Proin turpis felis, pellentesque ut vulputate vitae, efficitur eget ante. Aenean sed sapien velit. Morbi gravida ipsum sed elit posuere euismod. Donec suscipit egestas aliquam. Ut varius tristique posuere. Sed sit amet malesuada tellus. Mauris tristique felis est, sed pellentesque metus elementum nec. Nullam eu posuere nulla. Sed ullamcorper sem eu dignissim tincidunt. Ut commodo erat non massa euismod molestie. Vestibulum molestie interdum sapien, in hendrerit lacus rhoncus id.`,
+
+    thirdParagraph: `Maecenas sodales nisl bibendum sodales porta. In hac habitasse platea dictumst. Mauris metus nulla, semper nec euismod quis, congue ut neque. Sed vulputate facilisis odio. Aliquam venenatis lectus vel nibh porta accumsan. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Phasellus pretium justo non nisl tempus semper. Phasellus a maximus libero. Proin vel consequat massa, id vestibulum nibh. Nam nec dolor mollis turpis ultrices lobortis ullamcorper et magna. Morbi rhoncus faucibus nibh nec venenatis. Nam mollis, enim quis pulvinar viverra, risus massa tincidunt orci, in posuere augue ante quis turpis. Vestibulum dui sapien, laoreet at ipsum quis, malesuada ultrices ex. Cras fringilla scelerisque felis et mattis.`,
+  },
 ];
 
 /*
   Step 1: Write a component called 'articleMaker' to create an article.
   Your component is a function that takes an article object as its only argument,
   and returns a DOM node looking like the one below:
-
+  /*
   <div class="article">
-    <h2>{title of the article}</h2>
-    <p class="date">{date of the article}</p>
-
-    {three separate paragraph elements}
-
-    <span class="expandButton">+</span>
+  <h2>{title of the article}</h2>
+  <p class="date">{date of the article}</p>
+  
+  {three separate paragraph elements}
+  
+  <span class="expandButton">+</span>
   </div>
-
-  Step 2: Still inside `articleMaker`, add an event listener to the span.expandButton.
-  This listener should toggle the class 'article-open' on div.article.
-
-  Step 3: Don't forget to return something from your function!
-
-  Step 4: Outside your function now, loop over the data. At each iteration you'll use your component
-  to create a div.article element and append it to the DOM inside div.articles (see index.html).
-
-  Step 5: Try adding new article object to the data array. Make sure it is in the same format as the others.
-  Refresh the page to see the new article.
 */
+
+function articleMaker(article) {
+  //! Elements
+  const articleDiv = document.createElement("div");
+  const titleH2 = document.createElement("h2");
+  const dateP = document.createElement("p");
+  const para1 = document.createElement("p");
+  const para2 = document.createElement("p");
+  const para3 = document.createElement("p");
+  const buttonSpan = document.createElement("span");
+
+  //! Classes
+  articleDiv.classList.add("article");
+  dateP.classList.add("date");
+  buttonSpan.classList.add("expandButton");
+
+  //! Appending
+  articleDiv.append(titleH2);
+  articleDiv.append(dateP);
+  articleDiv.append(para1);
+  articleDiv.append(para2);
+  articleDiv.append(para3);
+  articleDiv.append(buttonSpan);
+
+  //! Adding innerText
+  titleH2.innerHTML = article.title;
+  dateP.innerHTML = article.date;
+  para1.innerHTML = article.firstParagraph;
+  para2.innerHTML = article.secondParagraph;
+  para3.innerHTML = article.thirdParagraph;
+  buttonSpan.textContent = `+`;
+
+  //! adding the toggles
+  buttonSpan.addEventListener("click", () => {
+    articleDiv.classList.toggle(`article-open`);
+  });
+
+  // Step 2: Still inside `articleMaker`, add an event listener to the span.expandButton.
+  // This listener should toggle the class 'article-open' on div.article.
+
+  // Step 3: Don't forget to return something from your function!
+
+  return articleDiv;
+}
+
+data.map((e) => {
+  let articles = document.querySelector(".articles");
+  articles.append(articleMaker(e));
+});
+
+// Step 4: Outside your function now, loop over the data. At each iteration you'll use your component
+// to create a div.article element and append it to the DOM inside div.articles (see index.html).
+
+// Step 5: Try adding new article object to the data array. Make sure it is in the same format as the others.
+// Refresh the page to see the new article.
+//
